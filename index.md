@@ -6,7 +6,7 @@ tagline:
 {% include JB/setup %}
 
 blog list
----
+_______
 
 <ul class="posts">
   {% for post in site.posts %}
