@@ -14,8 +14,8 @@ _______
   {% endfor %}
 </ul>
 {% highlight php %}
-function ech() {
-  echo 'dddd';
+function echo() {
+  echo 'example';
 }
 {% endhighlight %}
 
