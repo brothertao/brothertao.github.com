@@ -1,0 +1,21 @@
+### 源码阅读
+
+* nginx
+* lua
+* openresty
+* redis
+* yii
+* discuz
+
+### 项目
+
+* 阳信吧
+* 卡片复习软件
+* 评论系统
+* 聊天系统    
+
+### English
+
+* [背单词]
+* 看HN
+* 翻译
