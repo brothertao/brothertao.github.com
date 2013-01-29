@@ -16,13 +16,13 @@ _______
 
 blog list
 ---------
-<pre><code>
+<pre class="brush: js;">
 function echo() {
   echo 'example';
 }
-</code></pre>
+</pre>
 
-<pre><code>
+<pre class="brush: js;">
 $(document).ready(function() {
     $('#new-status form').submit(function(e) {
         e.preventDefault();
@@ -39,5 +39,5 @@ $(document).ready(function() {
         });
     });
 });
-</code></pre>
+</pre>
 
