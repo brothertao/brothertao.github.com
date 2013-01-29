@@ -22,7 +22,7 @@ function echo() {
 }
 {% endhighlight %}
 
-```javascript
+<pre>
 $(document).ready(function() {
     $('#new-status form').submit(function(e) {
         e.preventDefault();
@@ -39,5 +39,5 @@ $(document).ready(function() {
         });
     });
 });
-```
+<pre>
 
