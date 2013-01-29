@@ -22,3 +22,9 @@ function echo() {
 }
 {% endhighlight %}
 
+```javascript
+function() {
+	console.log(this);
+}
+```
+
