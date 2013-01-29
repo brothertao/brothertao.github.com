@@ -7,3 +7,5 @@ tags : [intro, beginner, jekyll, tutorial]
 
 研究了一天，算是会玩github的blog托管，感觉很不错。
 接下来就是写博客了，关键是先坚持住。
+
+竟然忘了怎么使用了，hoho
