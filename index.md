@@ -16,7 +16,7 @@ _______
 
 blog list
 ---------
-<pre class="brush: js;">
+<pre class="brush: php;">
 function echo() {
   echo 'example';
 }
