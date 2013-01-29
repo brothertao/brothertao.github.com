@@ -13,7 +13,7 @@ tags : [linux, mount, umount, cifs]
 
 *** 解决 ***
 
-	使用<pre>umount -l</pre>,注意是小写的L
+	使用`umount -l`,注意是小写的L
 
 [相关链接](http://stackoverflow.com/questions/40317/force-unmount-of-nfs-mounted-directory)
 
