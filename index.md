@@ -17,7 +17,6 @@ _______
 blog list
 ---------
 <pre><code>
-<?php
 function echo() {
   echo 'example';
 }
