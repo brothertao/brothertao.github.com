@@ -16,11 +16,11 @@ _______
 
 blog list
 ---------
-{% highlight php %}
+<pre>
 function echo() {
   echo 'example';
 }
-{% endhighlight %}
+</pre>
 
 <pre>
 $(document).ready(function() {
@@ -39,5 +39,5 @@ $(document).ready(function() {
         });
     });
 });
-<pre>
+</pre>
 
