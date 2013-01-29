@@ -16,7 +16,7 @@ _______
 
 blog list
 ---------
-<script type="text/javascript" src="{{ ASSET_PATH }}/plugins/syntaxhighlighter_3.0.83/scripts/shBrushPhp.js"></script>>
+<script type="text/javascript" src="{{ ASSET_PATH }}/twitter/plugins/syntaxhighlighter_3.0.83/scripts/shBrushPhp.js"></script>>
 <pre class="brush: php;">
 function echo() {
   echo 'example';
