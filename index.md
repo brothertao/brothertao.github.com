@@ -17,29 +17,11 @@ _______
 blog list
 ---------
 <script type="text/javascript" src="{{ ASSET_PATH }}/twitter/plugins/syntaxhighlighter_3.0.83/scripts/shBrushPhp.js"></script>>
+<div style="background-color:black;">
 <pre class="brush: php;">
 function echo() {
   echo 'example';
 }
 </pre>
-
-<pre class="brush: js;">
-$(document).ready(function() {
-    $('#new-status form').submit(function(e) {
-        e.preventDefault();
-
-        $.ajax({
-            url: '/status',
-            type: 'POST',
-            dataType: 'json',
-            data: { text: $('#new-status').find('textarea').val() },
-            success: function(data) {
-                $('#statuses').append('<li>' + data.text + '</li>');
-                $('#new-status').find('textarea').val('');
-            }
-        });
-    });
-});
-</pre>
-test git
+</div>
 
